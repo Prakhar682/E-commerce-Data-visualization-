@@ -15,6 +15,15 @@ This project delivers a deep-dive data analytics and business intelligence solut
 * **Advanced Aggregations:** Temporal tracking via Month-End (`ME`) sequential resampling and weekly distribution grouping.
 * **Data Visualization:** Seaborn and Matplotlib (Density Histograms with KDE layers, Sorted Horizontal Bar Charts, Pie charts, and Multi-chromatic Time-Series plots).
 
+<img width="3000" height="1500" alt="weekday_purchasing_pattern" src="https://github.com/user-attachments/assets/a46858da-9423-43c2-be77-03af08ff06f8" />
+<img width="3600" height="1500" alt="transaction_trend_over_time" src="https://github.com/user-attachments/assets/54103f7e-2868-4bdb-854f-bb0b60ab8fba" />
+<img width="3000" height="1500" alt="revenue_by_category" src="https://github.com/user-attachments/assets/b02a8e59-9ced-4cad-928a-b77bd8cde62c" />
+<img width="2100" height="2100" alt="repeat_vs_onetime_customers" src="https://github.com/user-attachments/assets/386fd1d5-c55d-4098-a1bf-b1be814f54ef" />
+<img width="3000" height="1500" alt="distribution_of_transactions" src="https://github.com/user-attachments/assets/7e308be1-5f55-4ce2-a69d-35a23ba2af6a" />
+<img width="3000" height="1500" alt="customer_behaviour_top_countries" src="https://github.com/user-attachments/assets/f412256b-6e48-48b1-9a62-97070cda8839" />
+<img width="3000" height="1500" alt="cancellation_rate_by_category" src="https://github.com/user-attachments/assets/81bf4250-a1a9-47f9-8445-70d92080b471" />
+
+
 ## 📂 Repository Structure
 ```text
 ├── Ecommerce_Transactions_Data.csv  # 500K Rows Core Transaction Dataset
@@ -22,10 +31,3 @@ This project delivers a deep-dive data analytics and business intelligence solut
 ├── Data_Visualisation_Report.pdf    # Executive Summary & Analytical Breakdown
 └── Visualizations/                  # High-Resolution Exported Plots (.png)
 
-<img width="3000" height="1500" alt="weekday_purchasing_pattern" src="https://github.com/user-attachments/assets/4211fe12-1a36-4626-bc1c-6aada3e3b150" />
-<img width="3600" height="1500" alt="transaction_trend_over_time" src="https://github.com/user-attachments/assets/fe86e3bf-d1d8-42ed-a994-aae8bbe9e70f" />
-<img width="3000" height="1500" alt="revenue_by_category" src="https://github.com/user-attachments/assets/2d243636-4b0e-454b-afa2-087fc4d76a05" />
-<img width="2100" height="2100" alt="repeat_vs_onetime_customers" src="https://github.com/user-attachments/assets/2714eff5-4cc9-4e28-aed5-556283e5a2bd" />
-<img width="3000" height="1500" alt="distribution_of_transactions" src="https://github.com/user-attachments/assets/7f114408-1fdc-48c8-831c-39c399593202" />
-<img width="3000" height="1500" alt="customer_behaviour_top_countries" src="https://github.com/user-attachments/assets/d51f2ca3-059e-48d5-90c3-cb11accece74" />
-<img width="3000" height="1500" alt="cancellation_rate_by_category" src="https://github.com/user-attachments/assets/9feaa941-c753-4034-8181-e73875a4fefd" />
